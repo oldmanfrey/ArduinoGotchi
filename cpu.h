@@ -83,7 +83,7 @@ typedef enum {
   PIN_K11 = 0X5,
   PIN_K12 = 0X6,
   PIN_K13 = 0X7,
-} pin_t;
+}pin_t;
 
 typedef enum {
   PIN_STATE_LOW = 0,
